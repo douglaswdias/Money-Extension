@@ -20,9 +20,6 @@ jobs:
       - name: Build
         run: dotnet build -c Release
 
-      - name: Publish .NET
-        run: dotnet publish MoneyExtension.csproj -c:Release -o docs --nologo
-
       - name: Unit Test
         run: dotnet test
 
