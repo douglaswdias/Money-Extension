@@ -4,6 +4,22 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>Money-Extensions</PackageId>
+    <Version>1.0.0</Version>
+    <!-- <icon></icon> -->
+    <License>MIT</License>
+    <Author>Douglas Dias</Author>
+    <!-- <Company></Company> -->
+    <PackageDescription>Convert currency</PackageDescription>
+    <RepositoryUrl>https://github.com/douglaswdias/Money-Extension</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/douglaswdias/Money-Extension</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <!-- <PackageIcon>MoneyExtensions</PackageIcon> -->
+    <PackageTags>money;int;decimal;convert</PackageTags>
+    <!-- <ReleaseNotes>Money-Extension</ReleaseNotes> -->
+    <Title>Money-Extension</Title>
+    <Summary>Money-Extension</Summary>
   </PropertyGroup>
 
 </Project>
